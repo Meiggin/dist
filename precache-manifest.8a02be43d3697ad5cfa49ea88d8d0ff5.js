@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "3c67a3c8836f2e3582e3a9a8efcec0d4",
+    "revision": "5a9fb9ed47f9c7c4e076856a088f877c",
     "url": "index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "robots.txt"
   },
   {
-    "revision": "67ac0ef6f35b97aad057",
-    "url": "js/app.f58cc112.js"
+    "revision": "01ecdd16f955d9331eb3",
+    "url": "js/app.4d54d5dc.js"
   },
   {
     "revision": "05640542c03b5583e39e360f70a6cd5e",
@@ -24,36 +24,36 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.a282c7be.js"
   },
   {
-    "revision": "cc81377db66719de2c3a",
-    "url": "js/about.20a5da5b.js"
+    "revision": "85dfe14eac14f3572629",
+    "url": "js/about.f8ecda2e.js"
   },
   {
     "revision": "05640542c03b5583e39e360f70a6cd5e",
     "url": "img/timg2.05640542.jpg"
   },
   {
-    "revision": "0ec491597901061ebbfa0fc6eb691f43",
-    "url": "img/BG2.png"
+    "revision": "8d5b592a92df22f7e805ee4736a68bce",
+    "url": "img/BG.png"
   },
   {
     "revision": "1f079af989842e35aaa9d7d36386a099",
     "url": "img/head.1f079af9.png"
   },
   {
-    "revision": "fecd67c3bed879bfe5342609f5b590ba",
-    "url": "img/jt2.png"
-  },
-  {
     "revision": "b2d0712fda0964d2b678a22ad3a1f872",
     "url": "img/jt1.png"
+  },
+  {
+    "revision": "fecd67c3bed879bfe5342609f5b590ba",
+    "url": "img/jt2.png"
   },
   {
     "revision": "1f079af989842e35aaa9d7d36386a099",
     "url": "img/head.png"
   },
   {
-    "revision": "8d5b592a92df22f7e805ee4736a68bce",
-    "url": "img/BG.png"
+    "revision": "0ec491597901061ebbfa0fc6eb691f43",
+    "url": "img/BG2.png"
   },
   {
     "revision": "6f0a76321d30f3c8120915e57f7bd77e",
@@ -76,11 +76,11 @@ self.__precacheManifest = [
     "url": "css/chunk-vendors.983ca916.css"
   },
   {
-    "revision": "67ac0ef6f35b97aad057",
+    "revision": "01ecdd16f955d9331eb3",
     "url": "css/app.07e07508.css"
   },
   {
-    "revision": "cc81377db66719de2c3a",
-    "url": "css/about.43520832.css"
+    "revision": "85dfe14eac14f3572629",
+    "url": "css/about.ee648567.css"
   }
 ];
